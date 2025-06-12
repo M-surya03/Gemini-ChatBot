@@ -25,3 +25,8 @@ This is a web-based AI Assistant chatbot built using Google's Gemini model and F
 ---
 
 ## 📂 Project Structure
+
+├── main.py # Flask server & Gemini chat handler
+├── index.html # Frontend UI
+├── requirements.txt # Python dependencies
+└── README.m
